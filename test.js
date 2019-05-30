@@ -9,7 +9,7 @@ window.onload = function() {
        // jQuery is loaded  
        alert("Get to work!");
    } else {
-    location.reload();
+    alert("No, find out why!");
    }
 }
 
